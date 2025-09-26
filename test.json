@@ -34,7 +34,7 @@
 				"allowRefund": true,
 				"allowKeyEntry": true,
 				"allowMoto": true,
-				"allowIris": false
+				"allowIris": true
 			},
 			{
 				"acqIndetifier": "011",
